@@ -230,8 +230,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "B.Tech. Computer Science Engineering with Specialization in \nGaming Technology\n\nVIT
-    BHOPAL"
+  m_Text: 'B.Tech. Computer Science Engineering
+
+'
 --- !u!222 &112129643
 CanvasRenderer:
   m_ObjectHideFlags: 0
